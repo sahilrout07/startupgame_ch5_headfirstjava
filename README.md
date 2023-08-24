@@ -16,4 +16,6 @@ My Comments
 This is a game from Chapter 5 and requires some knowledge from Chapter 6 of Head First Java.  Most of the code is from the book.  I did make improvements and changes like adding arrayList instead of array.  
 **output**  
 output will look like this  
-![output](output.png"a title")
+
+  
+![output](output.png)
